@@ -82,17 +82,17 @@ The objective of this section of the analysis was to explore the dataset to iden
 ### Visualizations:
 ![Number of Jobs](Project/Assets/01.png)
 
-![02](/Assets/01.2.png)
+![02](Project/Assets/01.2.png)
 
-![03](/Assets/01.3.png)
+![03](Project/Assets/01.3.png)
 
-![04](/Assets/01.4.png)
+![04](Project/Assets/01.4.png)
 
-![05](/Assets/01.5.png)
+![05](Project/Assets/01.5.png)
 
-![07](/Assets/01.7.png)
+![07](Project/Assets/01.7.png)
 
-![06](/Assets/01.6.png)
+![06](Project/Assets/01.6.png)
 
 ### Key Insights
 
@@ -110,7 +110,7 @@ The objective here is to identify the most in-demand skills for the top 3 data r
 I filtered the dataset to determine the most common data roles and extracted the top 5 most frequently required skills for each. This allows comparison of skill demand across roles and highlights key differences in required competencies.
 
 ### Visualizations:
-![10](/Assets/02.png)
+![10](Project/Assets/02.png)
 Bar graph visualizing the top 3 data roles and their top 5 skills associated with each.
 
 ### Key Insights:
@@ -124,7 +124,7 @@ In this section, I analyze how demand for key skills evolved over time to identi
 I filtered Data Analyst job postings and grouped skill occurrences by month. Calculated the top 5 most frequently requested skills for each month to track how demand changed throughout the year.
 
 ### Visualization
-![11](/Assets/03.png)
+![11](Project/Assets/03.png)
 Line chart showing the trend of top 5 skills for Data Analysts across the year 2023
 
 ### Key Insights
@@ -139,7 +139,7 @@ Here we analyze salary distributions across data roles and identify the highest-
 I focused on job postings with available salary data. First examined salary distributions across major data roles to understand compensation patterns. Then narrowed the analysis to Data Analyst roles to compare high-paying skills with in-demand skills.
 
 ### Visualization
-![12](/Assets/04_1.png)
+![12](Project/Assets/04_1.png)
 The box plot above shows salary distributions across key data roles, highlighting differences in median salary and variation across positions.
 
 ### Key Insights
@@ -152,7 +152,7 @@ Next, I narrowed my analysis and focused only on data analyst roles. I looked at
 
 
 ### Visualization
-![11](/Assets/04_2.png)
+![11](Project/Assets/04_2.png)
 Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in India.
 
 ### Key Insights
@@ -168,7 +168,7 @@ Finally I identified the most valuable skills by combining demand and salary to 
 I calculated the percentage of job postings requiring each skill and compared it with the median salary associated with those skills. This allows identification of skills that are both highly demanded and well-compensated.
 
 ### Visualizations
-![11](/Assets/05_1.png)
+![11](Project/Assets/05_1.png)
 The scatter plot above maps skill demand against median salary, highlighting the most optimal skills based on their position in the top-right region (high demand, high pay).
 
 ### Key Insights
@@ -180,7 +180,7 @@ The scatter plot above maps skill demand against median salary, highlighting the
 Then I extended the analysis by grouping skills into broader technology categories (e.g., programming, databases, visualization tools) to understand how different domains compare in terms of demand and compensation.
 
 ### Visualization
-![12](/Assets/05_2.png)
+![12](Project/Assets/05_2.png)
 A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in India with color labels for technology.
 
 ### Key Insights
